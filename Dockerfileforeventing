@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/operator/cmd/eventing-operator@sha256:affb5b6184e489287138da634ffa463ae20a0b53d2d7a3bd17ea821bf941b7d8
